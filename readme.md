@@ -1,6 +1,6 @@
 # Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> :earth_americas:
 
-I'm Front-End developer
+I'm developer
 
 You can find me here too 👇
 
